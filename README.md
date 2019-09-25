@@ -1,0 +1,2 @@
+# Minesweeper-Game
+Recreated the popular game Minesweeper with additional functionality in Wolfram Mathematica. Additional functions include the ability for the player to create or load a board, play the game, use AI solve, access the settings, and achieve high scores. This project was then implemented in Python to test two types of AI solving algorithms which was presented at the 2018 WKU Mathematics Symposium
